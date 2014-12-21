@@ -1,0 +1,42 @@
+h1 {
+	margin-bottom: 30px;
+	margin-top: 50px;
+}
+
+.form-control, .input-group {
+	width: 50%;
+}
+
+.input-group {
+	margin-bottom: 10px;
+}
+
+table, th, td {
+	 border: 2px solid white;
+}
+
+th {
+	color: royalblue;
+	background: #eee;
+}
+
+th, td {
+	text-align: center;
+	padding: 5px; 
+}
+
+td {
+	background: rgb(250,250,250);
+	color: black;
+}
+
+.row {
+	margin: 0px 20px 20px 20px;
+}
+
+.input-group-addon {
+	background: royalblue;
+	color: white;
+	border-radius: 0;
+	font-weight: bold;
+}
